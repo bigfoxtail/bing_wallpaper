@@ -14,7 +14,7 @@ if os.path.exists('bing_wallpaper'):
 os.mkdir('bing_wallpaper')
 
 
-time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
 c_year = time.strftime("%Y", time.localtime())
 c_monthdate = time.strftime("%m%d", time.localtime())
 version = "1." + c_year + "." + c_monthdate
