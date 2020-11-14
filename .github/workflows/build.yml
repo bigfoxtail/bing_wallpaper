@@ -1,4 +1,4 @@
-name: Build yuedu_source file
+name: Build bing_wallpaper
 on:
   workflow_dispatch:
   schedule:
