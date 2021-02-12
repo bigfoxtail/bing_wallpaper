@@ -20,7 +20,7 @@ version = "1." + c_year + "." + c_monthdate
 
 bing_wallpaper = '{"response":{"protocol":"3.1","server":"prod","app":[{"appid":"gccbbckogglekeggclmmekihdgdpdgoe","status":"ok","updatecheck":{"status":"ok","urls":{"url":[{"codebase":"https://github.com/bigfoxtail/bing_wallpaper/releases/latest/download/bing_wallpaper.crx"}]},"manifest":{"version":"1.0.0","packages":{"package":[{"name":"bing_wallpaper.crx","hash_sha256":"ba8b38b3d9eb556cc3118f75453a59219436358f38160dabee80234335ce57ed","required":true}]}}}}]}}'
 manifest = '{"description":"Brave NTP sponsored images component","key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2LqZaGPvWc9IDVNQ5Qg9oet/Pp4Qj/Ihm3HfXx+aYyrAoS1raI52rZv+qtVE8iCN+H5Vy35S4tKifwflUvxD+BRVLsxdjrCMPU/PcEoBAPB0WfNrJwWYSnT4r+Y8PHBh/ujHyk3IHZKkT3gAIh6SZ0MJszHqnDxwuDdpuR66HOfuy+oJ1SlaC4fzfFuUlSbobY/Ho56+Y5QE9yvXCwHIlqFLip04TKO+KrjfwS/+PP0ewq78OP+I0qrv3dw2zNGijJDJk8Zw1Lj9D/BHI1HSNy1RdNM3Vk9ufT3TXg/pR9fq0CLCLkiedu3qdmdu/T6zblbF8zgh+Ehuh7mk2MHgMwIDAQAB","manifest_version":2,"name":"Brave NTP sponsored images","version":"1.0.0"}'
-photo = '{"schemaVersion":1,"logo":{"imageUrl":"logo.png","alt":"Visit cn.bing.com","companyName":"Microsoft","destinationUrl":"https://cn.bing.com/"},"wallpapers":[]}'
+photo = '{"schemaVersion":1,"logo":{"imageUrl":"logo.png","alt":"cn.bing.com","companyName":"Microsoft","destinationUrl":"https://cn.bing.com/"},"wallpapers":[]}'
 bing_wallpaper_url = 'https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=6&pid=hp&uhd=1&uhdwidth=2880&uhdheight=1620'
 
 headers = {
